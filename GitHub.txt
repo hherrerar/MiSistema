@@ -1,0 +1,7 @@
+https://www.youtube.com/watch?v=44ziZ12rJwU
+Explicaciòn Git
+
+PS C:\sistemas> git init
+Initialized empty Git repository in C:/sistemas/.git/
+PS C:\sistemas> git remote add origin https://github.com/hherrerar/MiSistema.git
+PS C:\sistemas>
